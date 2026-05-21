@@ -1,7 +1,7 @@
 # ==========================================
 # FILE: jawaban_mahasiswa.py
-# NAMA: [Tulis Nama Anda di sini]
-# NIM: [Tulis NIM Anda di sini]
+# NAMA: [Sinta Nurhandayani]
+# NIM: [1251100085]
 # ==========================================
 
 def tambah(a, b):
@@ -9,25 +9,25 @@ def tambah(a, b):
     Fungsi untuk menjumlahkan a dan b.
     """
     # Tulis kode Anda di bawah ini
-    pass
+    return a + b
 
 def kurang(a, b):
     """
     Fungsi untuk mengurangkan a dengan b.
     """
     # Tulis kode Anda di bawah ini
-    pass
+    return a - b
 
 def kali(a, b):
     """
     Fungsi untuk mengalikan a dan b.
     """
     # Tulis kode Anda di bawah ini
-    pass
+    a * b
 
 def bagi(a, b):
     """
     Fungsi untuk membagi a dengan b.
     """
     # Tulis kode Anda di bawah ini
-    pass
+    return a / b
